@@ -76,6 +76,10 @@
         int sonuc5 = sayi3++;           // 72
         Console.WriteLine(sayi3);
 
+        int sonuc17 = ++sayi3;          //73         arttırma yapıldıktan sonra yazdırılırsa artırma görülür
+        Console.WriteLine(sonuc17);
+
+
     // % mod alma
 
         int sonuc6 = 25 % 5;                // 0
