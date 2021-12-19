@@ -31,6 +31,9 @@ for (int f = 1; f <= 1000; f++)
 
 // break, continue
 
+// Not: İç içe döngüler kullanıldığında break ifadesi yalnızca içinde bulunduğu ilk döngüyü sonlandırır.
+
+
 for (int n = 0; n <= 10; n++)
 {
     if(n == 4)
@@ -41,6 +44,13 @@ for (int n = 0; n <= 10; n++)
 for (int q = 1; q <= 7; q++)
 {
     if(q == 4)
-        continue;                   // 4'ü atla!      
+        continue;                   // 4'ü atlar! Döngü bir sonraki iterasyondan devam eder.      
     Console.WriteLine(q);          // 1, 2, 3, 5, 6, 7.
+}
+
+for (int i = 1; i <= 10; i++)
+{
+    if (i % 2 == 0)                 // i çift sayıya eşit olduğunda döngünün o anki iterasyon sonlanacaktır.
+        continue;                   // Bu durumda console'a 1 ile 10 arasındaki tek sayılar yazdırılacaktır.
+    Console.WriteLine(i);
 }
