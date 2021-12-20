@@ -1,0 +1,15 @@
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\bin\Debug\net6.0\Chapter8.exe
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\bin\Debug\net6.0\Chapter8.deps.json
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\bin\Debug\net6.0\Chapter8.runtimeconfig.json
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\bin\Debug\net6.0\Chapter8.dll
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\bin\Debug\net6.0\ref\Chapter8.dll
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\bin\Debug\net6.0\Chapter8.pdb
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\obj\Debug\net6.0\Chapter8.csproj.AssemblyReference.cache
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\obj\Debug\net6.0\Chapter8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\obj\Debug\net6.0\Chapter8.AssemblyInfoInputs.cache
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\obj\Debug\net6.0\Chapter8.AssemblyInfo.cs
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\obj\Debug\net6.0\Chapter8.csproj.CoreCompileInputs.cache
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\obj\Debug\net6.0\Chapter8.dll
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\obj\Debug\net6.0\ref\Chapter8.dll
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\obj\Debug\net6.0\Chapter8.pdb
+C:\Users\Jocok\Documents\app.patika\C#\Chapter8\obj\Debug\net6.0\Chapter8.genruntimeconfig.cache
